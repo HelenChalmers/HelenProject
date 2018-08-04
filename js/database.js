@@ -57,3 +57,5 @@ const stateQuarters = [
         year: "2008",
     }
 ]
+
+module.exports = stateQuarters;
